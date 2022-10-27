@@ -1,3 +1,2 @@
 # git_test
-The Odin Project - First GitHub repo
-Hello Odin!
+The Odin Project - First GitHub repo using CLI
